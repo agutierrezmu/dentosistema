@@ -1,0 +1,33 @@
+/*estilo bienvenidos*/
+#menuPrincipal {
+  clear: both; }
+
+.bg-faded {
+  background-color: #607d8b; }
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+  text-align: center; }
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  background-color: #ff6e40;
+  color: #fff; }
+
+.navbar-light .navbar-brand, .navbar-light .navbar-toggler {
+  color: #fff;
+  text-transform: uppercase; }
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover, .navbar-light .navbar-toggler:focus, .navbar-light .navbar-toggler:hover {
+  color: #fff; }
+
+.navbar-nav .nav-item {
+  text-transform: uppercase; }
+
+.navbar-light .navbar-nav .open > .nav-link, .navbar-light .navbar-nav .open > .nav-link:focus, .navbar-light .navbar-nav .open > .nav-link:hover, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .active > .nav-link:focus, .navbar-light .navbar-nav .active > .nav-link:hover, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .nav-link.open:focus, .navbar-light .navbar-nav .nav-link.open:hover, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.active:focus, .navbar-light .navbar-nav .nav-link.active:hover {
+  color: #fff; }
+
+@media (min-width: 575px) {
+  #menuPrincipal {
+    clear: inherit; } }
+
+/*# sourceMappingURL=style.css.map */
